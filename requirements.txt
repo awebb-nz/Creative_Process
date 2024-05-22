@@ -1,5 +1,4 @@
 anthropic>=0.25.9
-ipython>=8.24.0
 matplotlib>=3.5.2
 nltk>=3.7
 numpy>=1.21.5
